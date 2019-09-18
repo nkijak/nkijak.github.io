@@ -1,6 +1,6 @@
 title: Portfolio of Nicolas Kijak, Programmer
 description: > # this means to ignore newlines until "baseurl:"
-  Nicolas Kijak's programming portfolio and thoughts on professional programming
+  My portfolio of personal projects. Descriptions of why I made them and what I thought was interesting in creating them.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -10,7 +10,7 @@ future: true
 # Author Settings
 author: Nicolas Kijak
 author-img: nkijak.jpg # add your photo
-about-author: Polyglot, Full Stack, Data, all the fun things in between for 15+ years
+about-author: "Polyglot, Full Stack, Data, all the fun things in between for 15+ years"
 social-twitter: nkijak
 social-github: nkijak 
 social-linkedin: nkijak
